@@ -1,5 +1,8 @@
 # Monitoring NGINX On-Premise using Grafana Prometheus
 <hr>
+
+Access my article [here](https://stefandy.blog/article/technology/monitoring-nginx-on-premise-using-grafana-prometheus)
+
 Nginx (pronounced "engine x" /ˌɛndʒɪnˈɛks/ EN-jin-EKS) is a web server that can also be used as a reverse proxy, load balancer, mail proxy, and HTTP cache.
 
 ## Why On-Premise?
