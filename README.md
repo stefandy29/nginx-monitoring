@@ -17,6 +17,7 @@ I had a customer who using nginx for performance testing and api mockup. I mean,
 
 ## Concept
 <hr>
+
 ![](/image/concept.png)
 
 Here's what happen in this picture
